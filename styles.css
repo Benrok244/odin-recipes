@@ -1,0 +1,14 @@
+* {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#heading {
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    
+}
+
