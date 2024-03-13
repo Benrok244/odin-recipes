@@ -1,0 +1,16 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#bruschetta {
+    background-color: antiquewhite;
+    color: brown;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.heading {
+    color: brown;
+    font-size: 24px;
+    font-weight: 600;
+}
