@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#lasagna {
+    background-color: antiquewhite;
+    color: darkgoldenrod;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.heading {
+    color: darkgoldenrod;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.heading.two {
+    font-size: 18px;
+}
