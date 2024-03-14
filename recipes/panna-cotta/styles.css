@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#panna-cotta {
+    background-color: antiquewhite;
+    color: darkblue;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.heading {
+    color: darkblue;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.two {
+    font-size: 18px;
+}
